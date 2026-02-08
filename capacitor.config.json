@@ -1,0 +1,16 @@
+{
+  "appId": "com.lovespouse.controller",
+  "appName": "LoveSpouse Controller",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "BlePeripheral": {
+      "displayStrings": {
+        "scanning": "Scanning...",
+        "cancel": "Cancel"
+      }
+    }
+  }
+}

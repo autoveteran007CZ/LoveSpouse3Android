@@ -1,0 +1,5 @@
+{
+  "name": "LoveSpouse Controller",
+  "description": "Android BLE Controller for Love Spouse/MuSe devices using BLE Advertising.",
+  "requestFramePermissions": []
+}
